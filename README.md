@@ -1,2 +1,1 @@
-# G_game
-G_game
+# pro-c25-template
